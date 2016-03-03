@@ -1,6 +1,6 @@
 /*
-Projekt Zoo - demonstracja u¿ycia GIT w VS2010
-*/
+Projekt Zoo - demonstracja uÂ¿ycia GIT w VS2010
+*//
 
 #include <iostream>
 
